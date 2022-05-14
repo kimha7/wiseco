@@ -1,0 +1,55 @@
+.password_fields{
+  display: none;
+}
+
+.ln_align_right {
+  float: right;
+}
+
+.ln_color_white {
+  color: white !important;
+}
+
+.hide-link {
+  display: none;
+}
+
+h5 strong {
+  margin-right: 40px;
+}
+
+.info-section {
+  margin: 20px;
+}
+
+.today-bg{
+  background: #f0ffed !important;
+}
+
+.finance-icon-section i {
+  font-size: 7em;
+}
+
+.finance-icon {
+  margin: 50px;
+  float: left;
+  display: block;width: 250px
+}
+
+.report-table {
+  width: 100%;
+}
+
+.report-table tr {
+  text-align: center;
+  color: black;
+}
+
+.report-table tr th, .report-table tr td {
+  border: 1px solid grey;
+}
+
+.btn-right {
+  margin-left: auto;
+  display: block;
+}
